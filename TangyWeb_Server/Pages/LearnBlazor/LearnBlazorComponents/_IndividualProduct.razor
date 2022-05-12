@@ -1,0 +1,40 @@
+@using Tangy_Models.LearningBlazorModels
+
+<div class="col bg-light p-2 m-3 border" @onclick="(args)=>LastSelectedProduct(args, Product.Name)">
+    <h3 class="text-secondary">Product - @Product.Id</h3>
+    <p><span><input type="checkbox" name="" id="" @onchange="FavouriteUpdated"></span> Add to favourites</p>
+    <p>Last Selected Product : </p>
+    <p>Name : @Product.Name</p>
+    <p>Price : @Product.Price</p>
+    <p>Show Properties : <input type="checkbox" name="" id="" @bind-value="@Product.IsActive" @bind-value:event="oninput"
+            checked="@(@Product.IsActive?"checked":null)"></p>
+    @if (Product.IsActive)
+    {
+        foreach (var productProp in Product.ProductProperties)
+        {
+            <p>@productProp.Id : @productProp.Key is @productProp.Value</p>
+        }
+    }
+    <p>
+        <_EditDeleteButtons IsActive="@Product.IsActive"></_EditDeleteButtons>
+    </p>
+</div>
+
+@code{
+    [Parameter]
+    public Demo_Product Product { get; set; }
+    [Parameter]
+    public EventCallback<bool> OnFavouriteUpdated{ get; set; }
+    [Parameter]
+    public EventCallback<string> OnLastSelectedProductChange {get; set;}
+    
+    private async Task FavouriteUpdated(ChangeEventArgs e)
+    {
+        await OnFavouriteUpdated.InvokeAsync((bool)e.Value);
+    }
+
+    private async Task LastSelectedProduct(MouseEventArgs m, string name)
+    {
+        await OnLastSelectedProductChange.InvokeAsync(name);
+    }
+}

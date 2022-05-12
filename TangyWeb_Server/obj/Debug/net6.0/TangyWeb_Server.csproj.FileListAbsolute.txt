@@ -1,0 +1,8 @@
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.csproj.AssemblyReference.cache
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.AssemblyInfoInputs.cache
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.AssemblyInfo.cs
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.csproj.CoreCompileInputs.cache
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.RazorAssemblyInfo.cache
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.RazorAssemblyInfo.cs
