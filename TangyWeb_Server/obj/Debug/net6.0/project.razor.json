@@ -45,6 +45,39 @@
         }
       },
       {
+        "HashCode": 793492449,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.FetchData",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.FetchData"
+        }
+      },
+      {
+        "HashCode": 1058633666,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.FetchData",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.FetchData"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.FetchData",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1315354625,
         "Kind": "Components.Component",
         "Name": "TangyWeb_Server.Pages.Index",
@@ -78,35 +111,101 @@
         }
       },
       {
-        "HashCode": 793492449,
+        "HashCode": -1512004251,
         "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.FetchData",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
         "AssemblyName": "TangyWeb_Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "FetchData"
+            "TagName": "BindProp"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.FetchData"
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.BindProp"
         }
       },
       {
-        "HashCode": 1058633666,
+        "HashCode": 2039703130,
         "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.FetchData",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
         "AssemblyName": "TangyWeb_Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TangyWeb_Server.Pages.FetchData"
+            "TagName": "TangyWeb_Server.Pages.LearnBlazor.BindProp"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.FetchData",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1118792214,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoProduct"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct"
+        }
+      },
+      {
+        "HashCode": 852598328,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1631418648,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ParentComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent"
+        }
+      },
+      {
+        "HashCode": 1305369571,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -253,39 +352,6 @@
         }
       },
       {
-        "HashCode": -1631418648,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ParentComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent"
-        }
-      },
-      {
-        "HashCode": 1305369571,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 567504164,
         "Kind": "Components.Component",
         "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._ChildComponent",
@@ -412,68 +478,35 @@
         }
       },
       {
-        "HashCode": -1118792214,
+        "HashCode": 2038941183,
         "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
+        "Name": "TangyWeb_Server.App",
         "AssemblyName": "TangyWeb_Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "DemoProduct"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct"
+          "Common.TypeName": "TangyWeb_Server.App"
         }
       },
       {
-        "HashCode": 852598328,
+        "HashCode": 2090446534,
         "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
+        "Name": "TangyWeb_Server.App",
         "AssemblyName": "TangyWeb_Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct"
+            "TagName": "TangyWeb_Server.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1512004251,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BindProp"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.BindProp"
-        }
-      },
-      {
-        "HashCode": 2039703130,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.LearnBlazor.BindProp"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
+          "Common.TypeName": "TangyWeb_Server.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -656,39 +689,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TangyWeb_Server.Shared.NavMenu",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 2038941183,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.App",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.App"
-        }
-      },
-      {
-        "HashCode": 2090446534,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.App",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
