@@ -28,3 +28,5 @@ C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\refint\TangyWe
 C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.pdb
 C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\TangyWeb_Server.genruntimeconfig.cache
 C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\obj\Debug\net6.0\ref\TangyWeb_Server.dll
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\bin\Debug\net6.0\Tangy_Business.dll
+C:\Users\LEN\Documents\C#\Tangy2\TangyWeb_Server\bin\Debug\net6.0\Tangy_Business.pdb
