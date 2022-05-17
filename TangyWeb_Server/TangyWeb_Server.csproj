@@ -10,5 +10,6 @@
     <ProjectReference Include="../Tangy_Models/Tangy_Models.csproj" />
     <ProjectReference Include="../Tangy_Business/Tangy_Business.csproj" />
     <ProjectReference Include="../Tangy_Common/Tangy_Common.csproj" />
+    <ProjectReference Include="../Tangy_DataAccess/Tangy_DataAccess.csproj" />
   </ItemGroup>
 </Project>

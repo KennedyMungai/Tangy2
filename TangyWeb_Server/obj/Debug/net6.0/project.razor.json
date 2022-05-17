@@ -12,257 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1740851048,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.Counter",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": -495260292,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.Counter",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 793492449,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.FetchData",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.FetchData"
-        }
-      },
-      {
-        "HashCode": 1058633666,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.FetchData",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.FetchData"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.FetchData",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1315354625,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.Index",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.Index"
-        }
-      },
-      {
-        "HashCode": 976458640,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.Index",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.Index"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1512004251,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BindProp"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.BindProp"
-        }
-      },
-      {
-        "HashCode": 2039703130,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.LearnBlazor.BindProp"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1118792214,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DemoProduct"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct"
-        }
-      },
-      {
-        "HashCode": 852598328,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1631418648,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ParentComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent"
-        }
-      },
-      {
-        "HashCode": 1305369571,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1113107838,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "_EditDeleteButtons"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IsActive",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "IsActive"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons"
-        }
-      },
-      {
-        "HashCode": 1319355046,
-        "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons",
-        "AssemblyName": "TangyWeb_Server",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "IsActive",
-            "TypeName": "System.Boolean",
-            "Metadata": {
-              "Common.PropertyName": "IsActive"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -465967682,
         "Kind": "Components.Component",
         "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._IndividualProduct",
@@ -478,35 +227,253 @@
         }
       },
       {
-        "HashCode": 2038941183,
+        "HashCode": 512707809,
         "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.App",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._LifeCycleChild",
         "AssemblyName": "TangyWeb_Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "_LifeCycleChild"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.App"
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._LifeCycleChild"
         }
       },
       {
-        "HashCode": 2090446534,
+        "HashCode": 1367342245,
         "Kind": "Components.Component",
-        "Name": "TangyWeb_Server.App",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._LifeCycleChild",
         "AssemblyName": "TangyWeb_Server",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "TangyWeb_Server.App"
+            "TagName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._LifeCycleChild"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "TangyWeb_Server.App",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._LifeCycleChild",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1113107838,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "_EditDeleteButtons"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IsActive",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "IsActive"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons"
+        }
+      },
+      {
+        "HashCode": 1319355046,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IsActive",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "IsActive"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents._EditDeleteButtons",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1631418648,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ParentComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent"
+        }
+      },
+      {
+        "HashCode": 1305369571,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.LearnBlazorComponents.ParentComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1512004251,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BindProp"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.BindProp"
+        }
+      },
+      {
+        "HashCode": 2039703130,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.LearnBlazor.BindProp"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.BindProp",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1118792214,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DemoProduct"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct"
+        }
+      },
+      {
+        "HashCode": 852598328,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LearnBlazor.DemoProduct",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1315354625,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.Index",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 976458640,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.Index",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.Index",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1780245077,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LifeCycle",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "LifeCycle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LifeCycle"
+        }
+      },
+      {
+        "HashCode": -966049197,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.Pages.LifeCycle",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.Pages.LifeCycle"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.Pages.LifeCycle",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -689,6 +656,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "TangyWeb_Server.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2038941183,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.App",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.App"
+        }
+      },
+      {
+        "HashCode": 2090446534,
+        "Kind": "Components.Component",
+        "Name": "TangyWeb_Server.App",
+        "AssemblyName": "TangyWeb_Server",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TangyWeb_Server.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "TangyWeb_Server.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -16999,11 +16999,6 @@
       "FileKind": "component"
     },
     {
-      "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\Pages\\Counter.razor",
-      "TargetPath": "Pages\\Counter.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\_Imports.razor",
       "TargetPath": "_Imports.razor",
       "FileKind": "componentImport"
@@ -17029,6 +17024,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\Pages\\LearnBlazor\\LearnBlazorComponents\\_LifeCycleChild.razor",
+      "TargetPath": "Pages\\LearnBlazor\\LearnBlazorComponents\\_LifeCycleChild.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\Pages\\LearnBlazor\\LearnBlazorComponents\\_EditDeleteButtons.razor",
       "TargetPath": "Pages\\LearnBlazor\\LearnBlazorComponents\\_EditDeleteButtons.razor",
       "FileKind": "component"
@@ -17044,6 +17044,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\Pages\\LifeCycle.razor",
+      "TargetPath": "Pages\\LifeCycle.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\App.razor",
       "TargetPath": "App.razor",
       "FileKind": "component"
@@ -17052,11 +17057,6 @@
       "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\Pages\\_Layout.cshtml",
       "TargetPath": "Pages\\_Layout.cshtml",
       "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\Pages\\FetchData.razor",
-      "TargetPath": "Pages\\FetchData.razor",
-      "FileKind": "component"
     },
     {
       "FilePath": "c:\\Users\\LEN\\Documents\\C#\\Tangy2\\TangyWeb_Server\\Pages\\LearnBlazor\\LearnBlazorComponents\\ParentComponent.razor",
