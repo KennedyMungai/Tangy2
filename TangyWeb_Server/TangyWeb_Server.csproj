@@ -12,4 +12,11 @@
     <ProjectReference Include="../Tangy_Common/Tangy_Common.csproj" />
     <ProjectReference Include="../Tangy_DataAccess/Tangy_DataAccess.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.5">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
 </Project>
